@@ -17,5 +17,11 @@ git clone https://github.com/your_username/denoising-image-cnn-autoencoder.git
 (or)
 Download the file "denoising" and open it in jupyter notebook
 
-##Data Set 
-The dataset used is 
+##Libraries
+    numpy
+    matplotlib
+    keras
+    tensorflow
+
+##Neural Network
+CNN Network
